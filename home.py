@@ -29,7 +29,7 @@ with st.spinner('Processing Immigration Data...'):
 
 st.image("https://blog.mbeforyou.com/wp-content/uploads/2020/01/CANADIAN-IMMIGRATION.jpg",
          use_column_width=True)
-st.title("Immgration Analysis App")
+st.title("Immigration Analysis App")
 
 
 total_countries = df.shape[0]
